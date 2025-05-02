@@ -1,0 +1,19 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 6rem;
+  min-height: 80vh;
+  gap: 2rem;
+}
+
+.main h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.main p {
+  font-size: 1.25rem;
+  opacity: 0.8;
+} 
