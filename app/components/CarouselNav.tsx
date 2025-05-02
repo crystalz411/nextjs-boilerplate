@@ -10,7 +10,7 @@ export default function CarouselNav({ current }: Props) {
     const max = 5;
   
     return (
-      <div className="absolute bottom-50 w-full flex justify-center pb-6">
+      <div className="absolute bottom-0 w-full flex justify-center pb-6">
         <div className="flex h-10 gap-x-4">
           {Array.from({ length: max }).map((_, i) => {
             const page = i + 1;
