@@ -39,8 +39,10 @@ body {
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: rgb(var(--background-rgb));
+  background-color: black;
+  color: white;
+  /* color: rgb(var(--foreground-rgb)); */
+  /* background: rgb(var(--background-rgb)); */
   padding: 2rem;
 }
 
