@@ -7,7 +7,8 @@ export default function Home() {
     <>
      <main className={styles.main}>
       <h1>Welcome to My Next.js App</h1>
-      <p>This is a single page app using the App Router with TypeScript</p>
+      <p>CSM, Customer Success Manager, Digital Success 2025
+(Global) Take-Home Exercise</p>
     </main>
         <CarouselNav2/>
 
