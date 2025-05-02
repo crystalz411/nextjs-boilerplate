@@ -124,7 +124,7 @@ export default function Page() {
     
     </div>
     <div className="w-full fixed bottom-0 flex justify-center">
-        <CarouselNav current={1} />
+        <CarouselNav current={2} />
       </div>
     </div>
     );
