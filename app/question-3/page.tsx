@@ -77,18 +77,18 @@ export default function Page() {
               <p className="">
                 Would you or your VP of Marketing be up for a quick 30-minute
                 call next week to catch up and ensure your marketing pages are
-                performing brilliantly with your Vercel subscription? <br/>
-                
-                Just let me know which day / time suits you, and I’m happy to work around you.
-                I’d love to connect soon to help set you up for success this
-                quarter.
+                performing brilliantly with your Vercel subscription? <br />
+                Just let me know which day / time suits you, and I’m happy to
+                work around you. I’d love to connect soon to help set you up for
+                success this quarter.
               </p>
 
               <p> Looking forward to hearing from you!</p>
 
               <div className="pt-4 mt-6 border-t border-gray-700">
                 <p className="text-white">
-                  Best regards, <br /> Crystal <br/> Digital Customer Success Manager <br/> Vercel
+                  Best regards, <br /> Crystal <br /> Digital Customer Success
+                  Manager <br /> Vercel
                 </p>
               </div>
             </section>
