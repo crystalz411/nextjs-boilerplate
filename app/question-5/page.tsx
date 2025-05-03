@@ -1,8 +1,15 @@
+import Link from "next/link";
 import CarouselNav from "../components/CarouselNav";
 
 export default function Page() {
   return (
     <div>
+      <Link
+        href={`/`}
+        className="flex items-center justify-center w-40 p-2 text-white bg-purple-500 rounded-3xl"
+      >
+        Home
+      </Link>
       <div className="min-h-screen flex flex-col items-center justify-center md:p-8">
         <div className=" max-w-7xl w-full mx-auto rounded-xl bg-[#111111] backdrop-blur-sm border border-black shadow-xl p-6 md:p-8">
           <div className="space-y-6">
