@@ -29,7 +29,7 @@ export default function Page() {
                 I really really enjoyed the format of this exercise. I think i was 
                 realistic, and gives a clear sense of what the Customer Success
                 Manager role at Vercel might involve. The variety of scenarios
-                really allows me to demonstrate both technical understanding and strategic
+                really allows me to demonstrate both technical understanding and tailored
                 communication.
               </p>
 
@@ -56,7 +56,7 @@ developer) helped me to tailor the tone and message to suit thier needs.
               </h2>
               <ul className="list-disc list-inside space-y-2">
                 <div>
-                  I think for the video task, providing an example or template could
+                  I think for the video task, providing an example or template
                   could help as a guide on what to do on this task. I took it as a presentation / demo style and hope that is ok.
                 </div>
               </ul>
