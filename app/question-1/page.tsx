@@ -21,7 +21,7 @@ export default function Page() {
 
           <div className="my-8 p-5 border-l-4 border-purple-500 bg-gray-900/50 rounded-r-lg">
             <p className="text-xl font-medium text-purple-400">
-              Think of React as premium car parts like the engine or the wheel. 
+              Think of React as premium car parts like the engine, the wheel and the doors. 
               <br/>
               Next.js is the whole car assembled, tuned, and ready to drive.
 
@@ -58,7 +58,6 @@ export default function Page() {
                 <span>
                   <strong className="text-white">Faster load times:</strong>{" "}
                   <span className="text-gray-300">
-                    {/* <span className="font-stretch-expanded">server-side rendering & code splitting</span><br/> */}
                     Pages show up instantly for users because Next.js loads just what’s needed and prepares pages ahead of time.</span>
                   </span>
               </li>
@@ -69,7 +68,6 @@ export default function Page() {
                 <span>
                   <strong className="text-white">Better SEO:</strong>{" "}
                   <span className="text-gray-300">
-                  {/* <span className="font-stretch-expanded">pre-rendering and easy metadata control</span><br/> */}
                     Your content is ready for Google to index the moment the page loads, no extra setup required.</span>
                 </span>
               </li>
@@ -80,7 +78,6 @@ export default function Page() {
                 <span>
                   <strong className="text-white">Higher conversion potential:</strong>{" "}
                   <span className="text-gray-300">
-                  {/* <span className="font-stretch-expanded">better UX & built-in form handling</span><br/> */}
                   A faster, smoother site keeps visitors engaged and improves things like sign-ups, purchases, or form completions.
                   </span>
                 </span>
@@ -103,7 +100,7 @@ export default function Page() {
 
           <div className="pt-4 mt-6 border-t border-gray-700">
             <p className="text-gray-300">Best regards,</p>
-            <p className="font-semibold text-white">Crystal</p>
+            Crystal <br/> Digital Customer Success Manager <br/> Vercel
           </div>
         </section>
       </div>

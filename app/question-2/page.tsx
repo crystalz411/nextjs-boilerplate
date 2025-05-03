@@ -78,7 +78,7 @@ export default function Page() {
                 </span>
                 <span className="text-gray-300">
                   You can kick off a fast response using an Edge Function, handle the heavy GenAI processing in a
-                  Serverless Function, and stream or render the result however you want — SSR, CSR, whatever — all in
+                  Serverless Function, and stream or render the result however you want with SSR, CSR, all in
                   one app.
                 </span>
               </li>
@@ -87,7 +87,7 @@ export default function Page() {
                   2
                 </span>
                 <span className="text-gray-300">
-                  No juggling cloud providers or spinning up extra infra — the deploy flow stays the same.
+                  No juggling cloud providers or spinning up extra infra. The deploy flow stays the same.
                 </span>
               </li>
               <li className="flex items-start">
@@ -95,7 +95,7 @@ export default function Page() {
                   3
                 </span>
                 <span className="text-gray-300">
-                  It scales with you — edge functions run globally, serverless scales up as needed, and static content
+                  It scales with you as edge functions run globally, serverless scales up as needed, and static content
                   is CDN-cached by default.
                 </span>
               </li>
@@ -115,7 +115,7 @@ export default function Page() {
           </p>
 
             <div className="pt-4 mt-6 border-t border-gray-700">
-              <p className="font-semibold text-white">Crystal</p>
+            Best regards, <br /> Crystal <br/> Digital Customer Success Manager <br/> Vercel
             </div>
           </section>
         </div>
