@@ -28,14 +28,14 @@ export default function Page() {
 
             {/* Video embedded */}
               <div className="relative pb-[56.25%] h-0 overflow-hidden rounded shadow-lg border border-gray-700">
-                {/* <iframe
-                  src="https://player.vimeo.com/video/1058238826?badge=0&autopause=0&player_id=0&app_id=58479"
-                  frameBorder="0"
+                <iframe
+                  src="https://www.canva.com/design/DAGmeowToJE/jQxzWzDjjC9K61E2lM_dFg/watch?embed"
+                  // frameBorder="0"
                   allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
                   allowFullScreen
-                  title="Cognevo Investor Deck"
+                  title="Core Web Vitals Audit for Under Armour "
                   className="absolute top-0 left-0 w-full h-full"
-                /> */}
+                />
               </div>
             </section>
           </div>
