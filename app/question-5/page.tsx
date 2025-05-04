@@ -47,7 +47,7 @@ developer) helped me to tailor the tone and message to suit thier needs.
                 <p>
                   📌 The flexibility to use either the App Router or Pages
                   Router and the reduced focus on UI/UX design did help me with getting stuck in.
-                  Although i cant help but to makes things look pretty 😊
+                  Although i cant help but to makes things look pretty 😊.
                 </p>
               </ul>
 
