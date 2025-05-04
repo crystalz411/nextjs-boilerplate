@@ -23,7 +23,7 @@ export default function Page() {
             <section className="space-y-6 leading-relaxed text-gray-200">
               <h2 className="text-2xl font-semibold pt-4 text-white flex items-center">
                 <div className="h-5 w-1.5 bg-purple-500 rounded-full mr-3"></div>
-                Feedback on the Familiarization Exercise
+                Feedback on the Exercise
               </h2>
               <p>
                 I really really enjoyed the format of this exercise. I think i was 
